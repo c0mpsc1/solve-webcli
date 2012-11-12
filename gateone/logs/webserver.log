@@ -1,0 +1,118 @@
+[W 121017 22:04:59 gateone:2232] dtach command not found.  dtach support has been disabled.
+[I 121017 22:04:59 gateone:2274] No SSL private key found.  One will be generated.
+[I 121017 22:05:06 gateone:1802] No authentication method configured. All users will be ANONYMOUS
+[I 121017 22:05:06 gateone:1876] Loaded plugins: bookmarks, help, logging, logging_plugin, notice, playback, ssh
+[I 121017 22:05:06 gateone:2329] Listening on https://*:443/
+[W 121017 22:05:14 gateone:2232] dtach command not found.  dtach support has been disabled.
+[I 121017 22:05:14 gateone:1802] No authentication method configured. All users will be ANONYMOUS
+[I 121017 22:05:14 gateone:1876] Loaded plugins: bookmarks, help, logging, logging_plugin, notice, playback, ssh
+[I 121017 22:05:14 gateone:2329] Listening on https://*:443/
+[I 121017 22:07:10 web:1462] 302 GET / (128.59.19.219) 1.73ms
+[I 121017 22:07:10 auth:171] Creating user directory: /home/solve_dev/downloads/GateOne/gateone/users/ANONYMOUS
+[I 121017 22:07:10 web:1462] 302 GET /auth?next=%2F (128.59.19.219) 2.48ms
+[I 121017 22:07:10 web:1462] 200 GET / (128.59.19.219) 59.19ms
+[I 121017 22:07:10 web:1462] 200 GET /static/gateone.css (128.59.19.219) 1.34ms
+[I 121017 22:07:10 web:1462] 200 GET /static/gateone.js (128.59.19.219) 30.77ms
+[I 121017 22:07:10 web:1462] 200 GET /favicon.ico (128.59.19.219) 0.73ms
+[I 121017 22:07:11 web:1462] 200 GET /style?theme=black&container=gateone&prefix=go_ (128.59.19.219) 42.04ms
+[I 121017 22:07:11 web:1462] 200 GET /style?colors=default&container=gateone&prefix=go_ (128.59.19.219) 28.22ms
+[I 121017 22:07:11 web:1462] 200 GET /combined_js (128.59.19.219) 38.26ms
+[I 121017 22:07:11 web:1462] 200 GET /auth?check=True (128.59.19.219) 0.80ms
+[I 121017 22:07:11 web:1462] 200 GET /static/ubuntumono-normal.woff (128.59.19.219) 7.83ms
+[I 121017 22:07:11 web:1462] 200 GET /static/ubuntumono-bold.woff (128.59.19.219) 6.80ms
+[I 121017 22:07:12 gateone:880] WebSocket opened (ANONYMOUS).
+[I 121017 22:07:13 web:1462] 200 GET /cssrender?plugin=bookmarks&template=bookmarks.css&container=gateone&prefix=go_ (128.59.19.219) 43.04ms
+[I 121017 22:07:13 web:1462] 200 GET /cssrender?plugin=logging&template=logging.css&container=gateone&prefix=go_ (128.59.19.219) 9.24ms
+[I 121017 22:07:13 web:1462] 200 GET /cssrender?plugin=playback&template=playback.css&container=gateone&prefix=go_ (128.59.19.219) 1.17ms
+[I 121017 22:07:13 web:1462] 200 GET /cssrender?plugin=ssh&template=ssh.css&container=gateone&prefix=go_ (128.59.19.219) 17.98ms
+[I 121017 22:07:13 web:1462] 200 GET /static/bookmarks/images/star.svg (128.59.19.219) 0.87ms
+[I 121017 22:09:55 gateone:943] WebSocket closed (ANONYMOUS).
+[I 121017 22:10:02 web:1462] 200 GET / (128.59.19.219) 2.34ms
+[I 121017 22:10:02 web:1462] 200 GET /static/gateone.css (128.59.19.219) 1.02ms
+[I 121017 22:10:02 web:1462] 200 GET /static/gateone.js (128.59.19.219) 30.96ms
+[I 121017 22:10:03 web:1462] 200 GET /combined_js (128.59.19.219) 39.93ms
+[I 121017 22:10:03 web:1462] 200 GET /style?theme=black&container=gateone&prefix=go_ (128.59.19.219) 23.45ms
+[I 121017 22:10:03 web:1462] 200 GET /style?colors=default&container=gateone&prefix=go_ (128.59.19.219) 9.54ms
+[I 121017 22:10:03 web:1462] 200 GET /auth?check=True (128.59.19.219) 0.98ms
+[I 121017 22:10:03 web:1462] 200 GET /static/ubuntumono-normal.woff (128.59.19.219) 10.28ms
+[I 121017 22:10:03 web:1462] 200 GET /static/ubuntumono-bold.woff (128.59.19.219) 8.18ms
+[I 121017 22:10:04 gateone:880] WebSocket opened (ANONYMOUS).
+[I 121017 22:10:05 web:1462] 200 GET /cssrender?plugin=bookmarks&template=bookmarks.css&container=gateone&prefix=go_ (128.59.19.219) 2.62ms
+[I 121017 22:10:05 web:1462] 200 GET /cssrender?plugin=logging&template=logging.css&container=gateone&prefix=go_ (128.59.19.219) 1.20ms
+[I 121017 22:10:05 web:1462] 200 GET /cssrender?plugin=playback&template=playback.css&container=gateone&prefix=go_ (128.59.19.219) 0.73ms
+[I 121017 22:10:06 web:1462] 200 GET / (128.59.19.219) 2.05ms
+[I 121017 22:10:06 gateone:943] WebSocket closed (ANONYMOUS).
+[I 121017 22:10:06 web:1462] 304 GET /style?theme=black&container=gateone&prefix=go_ (128.59.19.219) 8.12ms
+[I 121017 22:10:06 web:1462] 304 GET /style?colors=default&container=gateone&prefix=go_ (128.59.19.219) 8.29ms
+[I 121017 22:10:06 web:1462] 304 GET /combined_js (128.59.19.219) 1.74ms
+[I 121017 22:10:06 web:1462] 304 GET /auth?check=True (128.59.19.219) 0.44ms
+[I 121017 22:10:06 gateone:880] WebSocket opened (ANONYMOUS).
+[I 121017 22:10:08 web:1462] 200 GET /cssrender?plugin=bookmarks&template=bookmarks.css&container=gateone&prefix=go_ (128.59.19.219) 2.73ms
+[I 121017 22:10:08 web:1462] 200 GET /cssrender?plugin=logging&template=logging.css&container=gateone&prefix=go_ (128.59.19.219) 1.16ms
+[I 121017 22:10:08 web:1462] 200 GET /cssrender?plugin=playback&template=playback.css&container=gateone&prefix=go_ (128.59.19.219) 1.24ms
+[I 121017 22:10:08 web:1462] 200 GET /cssrender?plugin=ssh&template=ssh.css&container=gateone&prefix=go_ (128.59.19.219) 1.45ms
+[I 121017 22:10:08 web:1462] 200 GET /static/bookmarks/images/star.svg (128.59.19.219) 1.02ms
+[I 121017 22:24:31 web:1462] 200 GET / (160.39.150.180) 1.75ms
+[I 121017 22:24:31 web:1462] 304 GET /style?theme=black&container=gateone&prefix=go_ (160.39.150.180) 8.15ms
+[I 121017 22:24:31 web:1462] 304 GET /style?colors=default&container=gateone&prefix=go_ (160.39.150.180) 7.78ms
+[I 121017 22:24:31 web:1462] 304 GET /combined_js (160.39.150.180) 1.63ms
+[I 121017 22:24:31 web:1462] 304 GET /auth?check=True (160.39.150.180) 0.76ms
+[I 121017 22:24:32 gateone:880] WebSocket opened (ANONYMOUS).
+[I 121017 22:24:33 web:1462] 304 GET /cssrender?plugin=bookmarks&template=bookmarks.css&container=gateone&prefix=go_ (160.39.150.180) 1.71ms
+[I 121017 22:24:33 web:1462] 304 GET /cssrender?plugin=logging&template=logging.css&container=gateone&prefix=go_ (160.39.150.180) 1.06ms
+[I 121017 22:24:33 web:1462] 304 GET /cssrender?plugin=playback&template=playback.css&container=gateone&prefix=go_ (160.39.150.180) 1.00ms
+[I 121017 22:24:34 web:1462] 304 GET /cssrender?plugin=ssh&template=ssh.css&container=gateone&prefix=go_ (160.39.150.180) 1.13ms
+[I 121017 22:29:30 web:1462] 200 GET /style?enumerate=True (160.39.150.180) 1.31ms
+[I 121017 22:29:50 web:1462] 304 GET /style?colors=default&container=gateone&prefix=go_ (160.39.150.180) 8.42ms
+[I 121017 22:29:51 web:1462] 200 GET /style?theme=white&container=gateone&prefix=go_ (160.39.150.180) 36.87ms
+[I 121017 22:30:19 web:1462] 200 GET / (160.39.150.180) 3.06ms
+[I 121017 22:30:20 web:1462] 304 GET /static/gateone.css (160.39.150.180) 1.12ms
+[I 121017 22:30:20 gateone:943] WebSocket closed (ANONYMOUS).
+[I 121017 22:30:20 web:1462] 200 GET /static/gateone.js (160.39.150.180) 30.60ms
+[I 121017 22:30:20 web:1462] 200 GET /favicon.ico (160.39.150.180) 1.47ms
+[I 121017 22:30:20 web:1462] 304 GET /style?theme=white&container=gateone&prefix=go_ (160.39.150.180) 12.01ms
+[I 121017 22:30:21 web:1462] 200 GET /combined_js (160.39.150.180) 35.86ms
+[I 121017 22:30:21 web:1462] 304 GET /style?colors=default&container=gateone&prefix=go_ (160.39.150.180) 7.92ms
+[I 121017 22:30:21 web:1462] 200 GET /auth?check=True (160.39.150.180) 0.60ms
+[I 121017 22:30:21 web:1462] 200 GET /favicon.ico (160.39.150.180) 0.83ms
+[I 121017 22:30:22 gateone:880] WebSocket opened (ANONYMOUS).
+[I 121017 22:30:23 web:1462] 304 GET /cssrender?plugin=bookmarks&template=bookmarks.css&container=gateone&prefix=go_ (160.39.150.180) 1.59ms
+[I 121017 22:30:23 web:1462] 304 GET /cssrender?plugin=logging&template=logging.css&container=gateone&prefix=go_ (160.39.150.180) 0.80ms
+[I 121017 22:30:23 web:1462] 304 GET /cssrender?plugin=playback&template=playback.css&container=gateone&prefix=go_ (160.39.150.180) 0.60ms
+[I 121017 22:30:23 web:1462] 304 GET /cssrender?plugin=ssh&template=ssh.css&container=gateone&prefix=go_ (160.39.150.180) 0.88ms
+[I 121017 22:35:57 web:1462] 200 GET / (160.39.150.180) 2.38ms
+[I 121017 22:35:58 gateone:943] WebSocket closed (ANONYMOUS).
+[I 121017 22:35:58 web:1462] 304 GET /style?theme=white&container=gateone&prefix=go_ (160.39.150.180) 9.46ms
+[I 121017 22:35:58 web:1462] 304 GET /style?colors=default&container=gateone&prefix=go_ (160.39.150.180) 7.93ms
+[I 121017 22:35:58 web:1462] 304 GET /combined_js (160.39.150.180) 1.68ms
+[I 121017 22:35:58 web:1462] 304 GET /auth?check=True (160.39.150.180) 0.50ms
+[I 121017 22:35:58 gateone:880] WebSocket opened (ANONYMOUS).
+[I 121017 22:36:00 web:1462] 304 GET /cssrender?plugin=bookmarks&template=bookmarks.css&container=gateone&prefix=go_ (160.39.150.180) 1.54ms
+[I 121017 22:36:00 web:1462] 304 GET /cssrender?plugin=logging&template=logging.css&container=gateone&prefix=go_ (160.39.150.180) 1.43ms
+[I 121017 22:36:00 web:1462] 304 GET /cssrender?plugin=playback&template=playback.css&container=gateone&prefix=go_ (160.39.150.180) 0.95ms
+[I 121017 22:36:00 web:1462] 304 GET /cssrender?plugin=ssh&template=ssh.css&container=gateone&prefix=go_ (160.39.150.180) 1.38ms
+[W 121017 22:46:56 gateone:2232] dtach command not found.  dtach support has been disabled.
+[I 121017 22:46:56 gateone:1802] No authentication method configured. All users will be ANONYMOUS
+[I 121017 22:46:56 gateone:1876] Loaded plugins: bookmarks, help, logging, logging_plugin, notice, playback, ssh
+[I 121017 22:46:56 gateone:2329] Listening on https://*:443/
+[W 121017 22:47:09 gateone:2232] dtach command not found.  dtach support has been disabled.
+[I 121017 22:47:09 gateone:1802] No authentication method configured. All users will be ANONYMOUS
+[I 121017 22:47:09 gateone:1876] Loaded plugins: bookmarks, help, logging, logging_plugin, notice, playback, ssh
+[I 121017 22:47:09 gateone:2329] Listening on https://*:443/
+[I 121017 22:47:13 gateone:880] WebSocket opened (ANONYMOUS).
+[I 121017 22:47:15 web:1462] 304 GET /cssrender?plugin=bookmarks&template=bookmarks.css&container=gateone&prefix=go_ (160.39.150.180) 29.68ms
+[I 121017 22:47:15 web:1462] 304 GET /cssrender?plugin=logging&template=logging.css&container=gateone&prefix=go_ (160.39.150.180) 6.78ms
+[I 121017 22:47:15 web:1462] 304 GET /cssrender?plugin=playback&template=playback.css&container=gateone&prefix=go_ (160.39.150.180) 1.38ms
+[I 121017 22:47:15 web:1462] 304 GET /cssrender?plugin=ssh&template=ssh.css&container=gateone&prefix=go_ (160.39.150.180) 8.46ms
+[I 121017 22:47:16 web:1462] 200 GET / (160.39.150.180) 10.47ms
+[I 121017 22:47:16 gateone:943] WebSocket closed (ANONYMOUS).
+[I 121017 22:47:17 web:1462] 200 GET /static/gateone.js (160.39.150.180) 28.85ms
+[I 121017 22:47:17 web:1462] 304 GET /style?theme=white&container=gateone&prefix=go_ (160.39.150.180) 29.81ms
+[I 121017 22:47:17 web:1462] 304 GET /style?colors=default&container=gateone&prefix=go_ (160.39.150.180) 24.56ms
+[I 121017 22:47:17 web:1462] 200 GET /combined_js (160.39.150.180) 35.62ms
+[I 121017 22:47:17 web:1462] 200 GET /auth?check=True (160.39.150.180) 0.55ms
+[I 121017 22:47:18 gateone:880] WebSocket opened (ANONYMOUS).
+[I 121017 22:47:19 web:1462] 304 GET /cssrender?plugin=bookmarks&template=bookmarks.css&container=gateone&prefix=go_ (160.39.150.180) 1.49ms
+[I 121017 22:47:19 web:1462] 304 GET /cssrender?plugin=logging&template=logging.css&container=gateone&prefix=go_ (160.39.150.180) 0.80ms
+[I 121017 22:47:19 web:1462] 304 GET /cssrender?plugin=playback&template=playback.css&container=gateone&prefix=go_ (160.39.150.180) 0.61ms
+[I 121017 22:47:19 web:1462] 304 GET /cssrender?plugin=ssh&template=ssh.css&container=gateone&prefix=go_ (160.39.150.180) 0.85ms
